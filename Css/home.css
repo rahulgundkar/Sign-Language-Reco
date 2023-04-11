@@ -18,4 +18,62 @@ h1 {
 .deaf {
     font-weight: bolder;
 }
+ 
+.img-connect {
+    width: 90%;
+ }
+
+ /*footer*/
+
+ .footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.quick {
+    text-decoration: none;
+    color: black;
+}
+
+.subs {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.social-handles {
+    display: flex;
+    justify-content: center;
+}
+
+.socials {
+    width: 38px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.margin {
+    margin-left: 10px;
+}
+
+.subs {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+}
+
+.sub {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.btn-card {
+    width: 100%;
+}
+
 
