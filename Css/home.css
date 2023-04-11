@@ -76,4 +76,14 @@ h1 {
     width: 100%;
 }
 
+.head-text {
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 0 2px 3px black;
+}
+
+.head-text-p {
+    font-weight: bolder;
+    font-size: 25px;
+}
 
